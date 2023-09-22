@@ -5,7 +5,7 @@ name: The Reading Globe
 tagline: Your go-to source for trending books 📚 and reviews ✍to fuel your literary journey.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/thereadingglobe/links/blob/main/logo.jpg
+Image_URL: https://thereadingglobe.github.io/links/logo.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -21,6 +21,15 @@ links:
     Username: thereadingglobe
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+           
+           # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com/
+    Username: thereadingglobe
+    Color: '#B10DC9'
+    Icon-Class: fas fa-book
+
+
 
  
 
