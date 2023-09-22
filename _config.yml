@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: The Reading Globe
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Your go-to source for trending books 📚 and reviews ✍to fuel your literary journey.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://github.com/thereadingglobe/links/blob/main/logo.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -15,17 +15,10 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
        # INSTAGRAM
   - Name: Instagram
-    URL: https://www.instagram.com
-    Username: harsh98trivedi
+    URL: https://www.instagram.com/thereadingglobe/
+    Username: thereadingglobe
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
