@@ -17,7 +17,7 @@ links:
     
        # INSTAGRAM
   - Name: Instagram
-    URL: https://www.instagram.com/thereadingglobe/
+    URL: https://www.instagram.com/
     Username: thereadingglobe
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
@@ -25,7 +25,7 @@ links:
  
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+# footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
