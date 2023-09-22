@@ -1,0 +1,61 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: Harsh Trivedi
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://github.com/harsh98trivedi.png
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://picsum.photos/1080?nocache=
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: harsh98trivedi
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
+       # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: harsh98trivedi
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+ 
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
