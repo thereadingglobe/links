@@ -3,8 +3,6 @@ layout: null
 permalink: /assets/search.js
 ---
 
----
-
 var pages = [
   {% for page in site.pages %}
     {
