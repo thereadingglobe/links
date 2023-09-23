@@ -14,7 +14,7 @@ var pages = [
 
 var fuseOptions = {
   keys: ["name"],
-  threshold: 0.3
+  threshold: 0.9
 };
 
 var fuse = new Fuse(pages, fuseOptions);
