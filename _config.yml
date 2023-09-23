@@ -21,12 +21,30 @@ links:
     Username: thereadingglobe
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-           
-           # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com/
-    Username: thereadingglobe
-    Color: '#B10DC9'
+      
+  
+  - Name: Baby University Complete "for Babies" Board Book Set (Baby University Board Book Sets)
+    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
+    Username: blank
+    Color:  add a random hex code colour here like =  '#5FEEB6'
+    Icon-Class: fas fa-book
+
+  - Name: Everything You Need to Ace Science in One Big Fat Notebook: The Complete Middle School Study Guide (Big Fat Notebooks)
+    URL: https://www.amazon.com/Everything-You-Need-Science-Notebook/dp/0761160957/ref=sr_1_2?tag=thereadingglo-20
+    Username: blank
+    Color:  add a random hex code colour here like =  '#769533'
+    Icon-Class: fas fa-book
+
+  - Name: Science Book, The: Everything You Need to Know About the World and How It Works
+    URL: https://www.amazon.com/Science-Book-Everything-About-World/dp/1426208081/ref=sr_1_3?tag=thereadingglo-20
+    Username: blank
+    Color:  add a random hex code colour here like =  '#AD159D'
+    Icon-Class: fas fa-book
+
+  - Name: The Song of the Cell: An Exploration of Medicine and the New Human
+    URL: https://www.amazon.com/Song-Cell-Exploration-Medicine-Human/dp/1982117354/ref=sr_1_4?tag=thereadingglo-20
+    Username: blank
+    Color:  add a random hex code colour here like =  '#DD6D18'
     Icon-Class: fas fa-book
 
 
