@@ -187,3 +187,12 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
+# Add jekyll_search configuration after the Default Markdown Engine
+defaults:
+  - scope:
+      path: ""
+    values:
+      jekyll_search:
+        source: assets/search.json
+        template: assets/search.html
