@@ -1,11 +1,4 @@
-var pages = [
-  {% for page in site.pages %}
-    {
-      "name": "{{ page.name | escape }}",
-      "url": "{{ page.url | absolute_url | escape }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-];
+var pages = JSON.parse(document.getElementById("search-data").textContent);
 
 var fuseOptions = {
   keys: ["name"],
