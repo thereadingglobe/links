@@ -1,6 +1,8 @@
 ---
 layout: null
-permalink: /search.json
+permalink: /assets/search.js
+---
+
 ---
 
 var pages = [
