@@ -164,6 +164,9 @@ links:
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
+include:
+  - "*.js.html"
+
 # Compress
 compress_html:
   clippings: all
