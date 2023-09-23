@@ -3,11 +3,11 @@ layout: null
 permalink: /search.json
 ---
 
-var links = [
-  {% for link in site.links %}
+var pages = [
+  {% for page in site.pages %}
     {
-      "name": "{{ link.Name | escape }}",
-      "url": "{{ link.URL | absolute_url }}"
+      "name": "{{ page.name | escape }}",
+      "url": "{{ page.url | absolute_url }}"
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ];
@@ -17,7 +17,7 @@ var fuseOptions = {
   threshold: 0.3
 };
 
-var fuse = new Fuse(links, fuseOptions);
+var fuse = new Fuse(pages, fuseOptions);
 
 var searchInput = document.getElementById("search-input");
 
