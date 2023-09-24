@@ -46,6 +46,3 @@ searchResults.addEventListener("click", function (e) {
 });
 
 
-
-// Inside the click event listener
-console.log("Clicked URL:", e.target.getAttribute("href"));
