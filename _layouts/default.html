@@ -53,16 +53,15 @@ layout: compress
     
     <script>
       var searchData = [
-        {% for page in site.pages %}
-        {% if page.name and page.url %}
+        {% for link in site.links %}
         {
-          "name": "{{ page.name | escape }}",
-          "url": "{{ page.url | absolute_url | escape }}"
+          "name": "{{ link.Name | escape }}",
+          "url": "{{ link.URL | escape }}"
         }{% unless forloop.last %},{% endunless %}
-        {% endif %}
         {% endfor %}
       ];
     </script>
+
 
     <script src="{{ '/assets/search.js' | relative_url }}"></script>
 </body>
