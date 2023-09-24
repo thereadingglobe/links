@@ -1,4 +1,5 @@
 name: Jekyll Site CI
+
 on:
   push:
     branches: [ master ]
