@@ -7,6 +7,9 @@ layout: compress
 
 <head>
     {% include meta.html %}
+    
+    <!-- Include the Fuse.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.3/dist/fuse.min.js"></script>
 </head>
 
 <body class="bg-black text-white">
@@ -47,6 +50,7 @@ layout: compress
         </div>
     </div>
     <!-- ... other HTML content ... -->
+    
     <script>
       var searchData = [
         {% for page in site.pages %}
