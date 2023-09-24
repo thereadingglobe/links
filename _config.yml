@@ -18,141 +18,297 @@ links:
        # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com/thereadingglobe
-    Username: blank
+    Username: ''
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
       
   
-  - Name: Baby University Complete for Babies Board Book Set (Baby University Board Book Sets)
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#CC3105'
+  - Name: The Science Book Big Ideas Simply Exp...
+    URL: https://www.amazon.sg/Science-Book-Ideas-Simply-Explained/dp/1465481222/ref=sr_1_1?tag=thereadingglo-22
+    Username: ''
+    Color: '#B397C3'
     Icon-Class: fas fa-book
 
-  - Name: Everything You Need to Ace Science in One Big Fat Notebook The Complete Middle School Study Guide (Big Fat Notebooks)
-    URL: https://www.amazon.com/Everything-You-Need-Science-Notebook/dp/0761160957/ref=sr_1_2?tag=thereadingglo-20
-    Username: blank
-    Color: '#86D1A2'
-    Icon-Class: fas fa-book
-
-  - Name: Science Book, The Everything You Need to Know About the World and How It Works
-    URL: https://www.amazon.com/Science-Book-Everything-About-World/dp/1426208081/ref=sr_1_3?tag=thereadingglo-20
-    Username: blank
-    Color: '#9E47D9'
-    Icon-Class: fas fa-book
-
-  - Name: The Song of the Cell An Exploration of Medicine and the New Human
-    URL: https://www.amazon.com/Song-Cell-Exploration-Medicine-Human/dp/1982117354/ref=sr_1_4?tag=thereadingglo-20
-    Username: blank
-    Color: '#61D38D'
+  - Name: The Science Book Everything You Need ...
+    URL: https://www.amazon.sg/Science-Book-Everything-about-World/dp/1426208081/ref=sr_1_2?tag=thereadingglo-22
+    Username: ''
+    Color: '#C1C8A2'
     Icon-Class: fas fa-book
 
   - Name: Outlive The Science and Art of Longevity
-    URL: https://www.amazon.com/Audible-Outlive-Science-Art-Longevity/dp/B0B64WL9PK/ref=sr_1_5?tag=thereadingglo-20
-    Username: blank
-    Color: '#6F3093'
+    URL: https://www.amazon.sg/Outlive-Longevity-Peter-Attia-MD/dp/0593236599/ref=sr_1_3?tag=thereadingglo-22
+    Username: ''
+    Color: '#AAC2C3'
     Icon-Class: fas fa-book
 
-  - Name: The Fascinating Science Book for Kids 500 Amazing Facts! (Fascinating Facts)
-    URL: https://www.amazon.com/Fascinating-Science-Book-Kids-Amazing/dp/1647398703/ref=sr_1_6?tag=thereadingglo-20
-    Username: blank
-    Color: '#DEA1B1'
+  - Name: Science!
+    URL: https://www.amazon.sg/Science-DK/dp/1465473637/ref=sr_1_4?tag=thereadingglo-22
+    Username: ''
+    Color: '#A4B3B2'
     Icon-Class: fas fa-book
 
-  - Name: Interesting Facts For Curious Minds 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between
-    URL: https://www.amazon.com/Interesting-Facts-Curious-Minds-Mind-Blowing/dp/B0B6XFT4RH/ref=sr_1_7?tag=thereadingglo-20
-    Username: blank
-    Color: '#5C24C2'
+  - Name: The Song of the Cell An Exploration o...
+    URL: https://www.amazon.sg/Song-Cell-Exploration-Medicine-Human/dp/1847925979/ref=sr_1_5?tag=thereadingglo-22
+    Username: ''
+    Color: '#B7C299'
     Icon-Class: fas fa-book
 
-  - Name: Why We Sleep Unlocking the Power of Sleep and Dreams
-    URL: https://www.amazon.com/Why-We-Sleep-Matthew-Walker-audiobook/dp/B0752XRB5F/ref=sr_1_8?tag=thereadingglo-20
-    Username: blank
-    Color: '#84D476'
+  - Name: Science Encyclopedia Atom Smashing, F...
+    URL: https://www.amazon.sg/Science-Encyclopedia-Smashing-Chemistry-Animals/dp/1426325428/ref=sr_1_6?tag=thereadingglo-22
+    Username: ''
+    Color: '#ABA396'
     Icon-Class: fas fa-book
 
-  - Name: The Book of Strange but True Science
-    URL: https://www.amazon.com/Book-Strange-but-True-Science/dp/1640308334/ref=sr_1_9?tag=thereadingglo-20
-    Username: blank
-    Color: '#B65AA1'
+  - Name: The Biggest Ideas in the Universe Spa...
+    URL: https://www.amazon.sg/Biggest-Ideas-Universe-Space-Motion/dp/0593186583/ref=sr_1_7?tag=thereadingglo-22
+    Username: ''
+    Color: '#B2B39B'
     Icon-Class: fas fa-book
 
-  - Name: On the Origin of Time Stephen Hawkings Final Theory
-    URL: https://www.amazon.com/Origin-Time-Thomas-Hertog/dp/0593128443/ref=sr_1_10?tag=thereadingglo-20
-    Username: blank
-    Color: '#7E9AEB'
+  - Name: The Fascinating Science Book for Kids...
+    URL: https://www.amazon.sg/Fascinating-Science-Book-Kids-Amazing/dp/1647398703/ref=sr_1_8?tag=thereadingglo-22
+    Username: ''
+    Color: '#A299BF'
     Icon-Class: fas fa-book
 
-  - Name: What If? Serious Scientific Answers to Absurd Hypothetical Questions
-    URL: https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_11?tag=thereadingglo-20
-    Username: blank
-    Color: '#40C8E9'
+  - Name: The Elements Book A Visual Encycloped...
+    URL: https://www.amazon.sg/Elements-Book-Visual-Encyclopedia-Periodic/dp/1465456600/ref=sr_1_9?tag=thereadingglo-22
+    Username: ''
+    Color: '#BCA3AD'
     Icon-Class: fas fa-book
 
-  - Name: The Biggest Ideas in the Universe Space, Time, and Motion
-    URL: https://www.amazon.com/Biggest-Ideas-Universe-Space-Motion/dp/0593186583/ref=sr_1_12?tag=thereadingglo-20
-    Username: blank
-    Color: '#0F3CCD'
+  - Name: Behave The Biology of Humans at Our B...
+    URL: https://www.amazon.sg/Behave-Biology-Humans-Best-Worst/dp/0143110918/ref=sr_1_10?tag=thereadingglo-22
+    Username: ''
+    Color: '#B5C0B7'
     Icon-Class: fas fa-book
 
-  - Name: Behave The Biology of Humans at Our Best and Worst
-    URL: https://www.amazon.com/Behave-Robert-M-Sapolsky-audiobook/dp/B06XVYHXDV/ref=sr_1_13?tag=thereadingglo-20
-    Username: blank
-    Color: '#124F79'
+  - Name: Everything You Need to Ace Science in...
+    URL: https://www.amazon.sg/Everything-You-Need-Science-Notebook/dp/0761160957/ref=sr_1_11?tag=thereadingglo-22
+    Username: ''
+    Color: '#BEA5AE'
     Icon-Class: fas fa-book
 
-  - Name: The Complete Human Body The Definitive Visual Guide
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#DC0DB1'
+  - Name: Berenstain Bears Big Book of Science ...
+    URL: https://www.amazon.sg/Berenstain-Bears-Book-Science-Nature/dp/0486498344/ref=sr_1_12?tag=thereadingglo-22
+    Username: ''
+    Color: '#ABA3AC'
     Icon-Class: fas fa-book
 
-  - Name: Advanced Math ACT A Must Have if Going for 30+ (The Most Advanced Guide)
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#721437'
+  - Name: The Science of Spice Understand Flavo...
+    URL: https://www.amazon.sg/Science-Spice-Understand-Connections-Revolutionize/dp/1465475575/ref=sr_1_13?tag=thereadingglo-22
+    Username: ''
+    Color: '#BEBBB4'
     Icon-Class: fas fa-book
 
-  - Name: Immune A Journey into the Mysterious System That Keeps You Alive
-    URL: https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/B08ZQFWM5W/ref=sr_1_16?tag=thereadingglo-20
-    Username: blank
-    Color: '#5AB973'
+  - Name: Interesting Facts For Curious Minds 1...
+    URL: https://www.amazon.sg/Interesting-Facts-Curious-Minds-Mind-Blowing/dp/B0B6XFT4RH/ref=sr_1_14?tag=thereadingglo-22
+    Username: ''
+    Color: '#BFABC0'
     Icon-Class: fas fa-book
 
-  - Name: Breath The New Science of a Lost Art
-    URL: https://www.amazon.com/Breath-New-Science-Lost-Art/dp/B082FPZC4H/ref=sr_1_17?tag=thereadingglo-20
-    Username: blank
-    Color: '#998F00'
+  - Name: Immune A Journey Into the Mysterious ...
+    URL: https://www.amazon.sg/Immune-Journey-Mysterious-System-Keeps/dp/0593241312/ref=sr_1_15?tag=thereadingglo-22
+    Username: ''
+    Color: '#C4B0C3'
     Icon-Class: fas fa-book
 
-  - Name: The Science Book Big Ideas Simply Explained (DK Big Ideas)
-    URL: https://www.amazon.com/Science-Book-Ideas-Simply-Explained/dp/1465481222/ref=sr_1_18?tag=thereadingglo-20
-    Username: blank
-    Color: '#0AB378'
+  - Name: The Code Book The Science of Secrecy ...
+    URL: https://www.amazon.sg/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_16?tag=thereadingglo-22
+    Username: ''
+    Color: '#A89DBA'
     Icon-Class: fas fa-book
 
-  - Name: The Science of Spice Understand Flavor Connections and Revolutionize Your Cooking
-    URL: https://www.amazon.com/Spice-Understand-Science-Exciting-Revolutionize/dp/1465475575/ref=sr_1_19?tag=thereadingglo-20
-    Username: blank
-    Color: '#274261'
+  - Name: 5,000 Awesome Facts (about Everything!)
+    URL: https://www.amazon.sg/000-Awesome-Facts-about-Everything/dp/1426310498/ref=sr_1_17?tag=thereadingglo-22
+    Username: ''
+    Color: '#C4BDA6'
     Icon-Class: fas fa-book
 
-  - Name: 5S Made Easy A Step-by-Step Guide to Implementing and Sustaining Your 5S Program
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#04CBF4'
+  - Name: Universe, Third Edition The Definitiv...
+    URL: https://www.amazon.sg/Universe-Third-Definitive-Visual-Guide/dp/1465499954/ref=sr_1_18?tag=thereadingglo-22
+    Username: ''
+    Color: '#B197B8'
     Icon-Class: fas fa-book
 
-  - Name: Too Good to Be True Scottsdale and Privatization in the 1980s
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#43773A'
+  - Name: The Art of Doing Science and Engineer...
+    URL: https://www.amazon.sg/Art-Doing-Science-Engineering-Learning/dp/1732265178/ref=sr_1_19?tag=thereadingglo-22
+    Username: ''
+    Color: '#ADC6C3'
     Icon-Class: fas fa-book
 
-  - Name: Biology Made Easy An Illustrated Study Guide For Students To Easily Learn Cellular & Molecular Biology
-    URL: https://www.amazon.com/sspa/click?tag=thereadingglo-20
-    Username: blank
-    Color: '#E64F5C'
+  - Name: Awesome Science Experiments for Kids ...
+    URL: https://www.amazon.sg/Awesome-Science-Experiments-Kids-Projects/dp/1939754666/ref=sr_1_20?tag=thereadingglo-22
+    Username: ''
+    Color: '#B4A3BD'
+    Icon-Class: fas fa-book
+
+  - Name: The Food Lab Better Home Cooking Thro...
+    URL: https://www.amazon.sg/Food-Lab-Cooking-Through-Science/dp/0393081087/ref=sr_1_21?tag=thereadingglo-22
+    Username: ''
+    Color: '#B1C5AE'
+    Icon-Class: fas fa-book
+
+  - Name: The Book of Why The New Science of Ca...
+    URL: https://www.amazon.sg/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_22?tag=thereadingglo-22
+    Username: ''
+    Color: '#C3A7C8'
+    Icon-Class: fas fa-book
+
+  - Name: What If? Serious Scientific Answers t...
+    URL: https://www.amazon.sg/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_23?tag=thereadingglo-22
+    Username: ''
+    Color: '#C69FAD'
+    Icon-Class: fas fa-book
+
+  - Name: How to Be Good at Science, Technology...
+    URL: https://www.amazon.sg/How-Good-Science-Technology-Engineering/dp/0241227860/ref=sr_1_24?tag=thereadingglo-22
+    Username: ''
+    Color: '#A1AAA1'
+    Icon-Class: fas fa-book
+
+  - Name: How To Absurd Scientific Advice for C...
+    URL: https://www.amazon.sg/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/ref=sr_1_25?tag=thereadingglo-22
+    Username: ''
+    Color: '#B59EC8'
+    Icon-Class: fas fa-book
+
+  - Name: Chaos Making a New Science
+    URL: https://www.amazon.sg/Chaos-Making-Science-James-Gleick/dp/0143113453/ref=sr_1_26?tag=thereadingglo-22
+    Username: ''
+    Color: '#AFC5A9'
+    Icon-Class: fas fa-book
+
+  - Name: Women In Science 50 Fearless Pioneers...
+    URL: https://www.amazon.sg/Women-Science-Fearless-Pioneers-Changed/dp/1607749769/ref=sr_1_27?tag=thereadingglo-22
+    Username: ''
+    Color: '#B4A8B0'
+    Icon-Class: fas fa-book
+
+  - Name: Algorithms to Live by The Computer Sc...
+    URL: https://www.amazon.sg/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_28?tag=thereadingglo-22
+    Username: ''
+    Color: '#B59A9E'
+    Icon-Class: fas fa-book
+
+  - Name: National Geographic Science of Everyt...
+    URL: https://www.amazon.sg/National-Geographic-Science-Everything-Things/dp/1426211686/ref=sr_1_29?tag=thereadingglo-22
+    Username: ''
+    Color: '#989BAA'
+    Icon-Class: fas fa-book
+
+  - Name: The Physics Book Big Ideas Simply Exp...
+    URL: https://www.amazon.sg/Physics-Book-Ideas-Simply-Explained/dp/0241412722/ref=sr_1_30?tag=thereadingglo-22
+    Username: ''
+    Color: '#BFC398'
+    Icon-Class: fas fa-book
+
+  - Name: Brief Answers to the Big Questions th...
+    URL: https://www.amazon.sg/Brief-Answers-Big-Questions-Stephen/dp/1473695996/ref=sr_1_31?tag=thereadingglo-22
+    Username: ''
+    Color: '#AD9AC1'
+    Icon-Class: fas fa-book
+
+  - Name: Science Puzzles for Clever Kids® Over...
+    URL: https://www.amazon.sg/Science-Puzzles-Clever-Kids%C2%AE-Exercise/dp/1780556632/ref=sr_1_32?tag=thereadingglo-22
+    Username: ''
+    Color: '#9EB2A1'
+    Icon-Class: fas fa-book
+
+  - Name: Right Kind of Wrong The Science of Fa...
+    URL: https://www.amazon.sg/Right-Kind-Wrong-Science-Failing/dp/1668034573/ref=sr_1_33?tag=thereadingglo-22
+    Username: ''
+    Color: '#98B2BA'
+    Icon-Class: fas fa-book
+
+  - Name: The Chemistry Book Big Ideas Simply E...
+    URL: https://www.amazon.sg/Chemistry-Book-Ideas-Simply-Explained/dp/0241515548/ref=sr_1_34?tag=thereadingglo-22
+    Username: ''
+    Color: '#9BC09A'
+    Icon-Class: fas fa-book
+
+  - Name: Rehab Science The Complete Guide to O...
+    URL: https://www.amazon.sg/Rehab-Science-Overcoming-Increasing-MovementThe/dp/1628601396/ref=sr_1_35?tag=thereadingglo-22
+    Username: ''
+    Color: '#A2C799'
+    Icon-Class: fas fa-book
+
+  - Name: Natural History The Ultimate Visual G...
+    URL: https://www.amazon.sg/Natural-History-Ultimate-Visual-Everything/dp/0744035015/ref=sr_1_36?tag=thereadingglo-22
+    Username: ''
+    Color: '#B797B7'
+    Icon-Class: fas fa-book
+
+  - Name: Cosmic Queries StarTalks Guide to Who...
+    URL: https://www.amazon.sg/Cosmic-Queries-StarTalks-Guide-Where/dp/1426221770/ref=sr_1_37?tag=thereadingglo-22
+    Username: ''
+    Color: '#AB9CA8'
+    Icon-Class: fas fa-book
+
+  - Name: Bigger Leaner Stronger The Simple Sci...
+    URL: https://www.amazon.sg/Bigger-Leaner-Stronger-Building-Ultimate/dp/1938895304/ref=sr_1_38?tag=thereadingglo-22
+    Username: ''
+    Color: '#96B0BC'
+    Icon-Class: fas fa-book
+
+  - Name: Super Interesting Facts For Smart Kid...
+    URL: https://www.amazon.sg/Super-Interesting-Facts-Smart-Kids/dp/B0BGGM9SGY/ref=sr_1_39?tag=thereadingglo-22
+    Username: ''
+    Color: '#BFC3B6'
+    Icon-Class: fas fa-book
+
+  - Name: On the Origin of Time Stephen Hawking...
+    URL: https://www.amazon.sg/Origin-Time-Stephen-Hawkings-Theory/dp/0593128443/ref=sr_1_40?tag=thereadingglo-22
+    Username: ''
+    Color: '#B7C3A5'
+    Icon-Class: fas fa-book
+
+  - Name: Little Kids First Big Book of Science
+    URL: https://www.amazon.sg/Little-Kids-First-Book-Science/dp/1426333188/ref=sr_1_41?tag=thereadingglo-22
+    Username: ''
+    Color: '#C0A29A'
+    Icon-Class: fas fa-book
+
+  - Name: Mistakes That Worked 40 Familiar Inve...
+    URL: https://www.amazon.sg/Mistakes-That-Worked-Familiar-Inventions/dp/0385320434/ref=sr_1_42?tag=thereadingglo-22
+    Username: ''
+    Color: '#A7C198'
+    Icon-Class: fas fa-book
+
+  - Name: Science of Yoga Understand the Anatom...
+    URL: https://www.amazon.sg/Science-Yoga-Understand-Physiology-Practice/dp/146547935X/ref=sr_1_43?tag=thereadingglo-22
+    Username: ''
+    Color: '#B5B19B'
+    Icon-Class: fas fa-book
+
+  - Name: The Biology Book Big Ideas Simply Exp...
+    URL: https://www.amazon.sg/Biology-Book-Ideas-Simply-Explained/dp/0744027381/ref=sr_1_44?tag=thereadingglo-22
+    Username: ''
+    Color: '#B0ACC1'
+    Icon-Class: fas fa-book
+
+  - Name: Project Hail Mary A Novel
+    URL: https://www.amazon.sg/Project-Hail-Mary-Andy-Weir/dp/0593135229/ref=sr_1_45?tag=thereadingglo-22
+    Username: ''
+    Color: '#C7AC9F'
+    Icon-Class: fas fa-book
+
+  - Name: The Code Breaker Jennifer Doudna, Gen...
+    URL: https://www.amazon.sg/Code-Breaker-Jennifer-Doudna-Editing/dp/1982115858/ref=sr_1_46?tag=thereadingglo-22
+    Username: ''
+    Color: '#AAA9A0'
+    Icon-Class: fas fa-book
+
+  - Name: How the World Really Works The Scienc...
+    URL: https://www.amazon.sg/How-World-Really-Works-Science/dp/0593297067/ref=sr_1_47?tag=thereadingglo-22
+    Username: ''
+    Color: '#C4B7AB'
+    Icon-Class: fas fa-book
+
+  - Name: American Prometheus The Triumph and T...
+    URL: https://www.amazon.sg/American-Prometheus-Triumph-Tragedy-Oppenheimer/dp/0375726268/ref=sr_1_48?tag=thereadingglo-22
+    Username: ''
+    Color: '#B39FA8'
     Icon-Class: fas fa-book
 
 
