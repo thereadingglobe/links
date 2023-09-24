@@ -23,3 +23,5 @@ searchInput.addEventListener("input", function () {
 
   searchResults.innerHTML = html;
 });
+console.log("searchData:", searchData);
+console.log("fuseOptions:", fuseOptions);
