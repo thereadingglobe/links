@@ -16,11 +16,17 @@ searchInput.addEventListener("input", function () {
 
   var html = "";
 
-  for (var i = 0; i < results.length; i++) {
+  if (results.length === 0) {
+    // Handle the case when there are no results
     html += '<div class="search-result">';
-    html +=
-      '<h2><a href="' + results[i].url + '">' + results[i].name + "</a></h2>";
-    html += "</div>";
+    html += '<p>No results found</p>';
+    html += '</div>';
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      html += '<div class="search-result">';
+      html += '<h2><a href="' + results[i].url + '">' + results[i].name + "</a></h2>";
+      html += '</div>';
+    }
   }
 
   searchResults.innerHTML = html;
@@ -33,4 +39,5 @@ searchResults.addEventListener("click", function (e) {
     window.location.href = e.target.getAttribute("href");
   }
 });
+
 
