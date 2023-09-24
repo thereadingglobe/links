@@ -1,7 +1,8 @@
 console.log(searchData);
+// Initialize Fuse with your searchData
 var fuseOptions = {
   keys: ["name"],
-  threshold: 0.6
+  threshold: 0.2,
 };
 
 var fuse = new Fuse(searchData, fuseOptions);
@@ -17,11 +18,19 @@ searchInput.addEventListener("input", function () {
 
   for (var i = 0; i < results.length; i++) {
     html += '<div class="search-result">';
-    html += '<h2><a href="' + results[i].url + '">' + results[i].name + '</a></h2>';
-    html += '</div>';
+    html +=
+      '<h2><a href="' + results[i].url + '">' + results[i].name + "</a></h2>";
+    html += "</div>";
   }
 
   searchResults.innerHTML = html;
 });
-console.log("searchData:", searchData);
-console.log("fuseOptions:", fuseOptions);
+
+// Attach click event to each search result item
+searchResults.addEventListener("click", function (e) {
+  if (e.target.tagName === "A") {
+    // Redirect to the clicked URL
+    window.location.href = e.target.getAttribute("href");
+  }
+});
+
