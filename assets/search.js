@@ -1,18 +1,9 @@
-var pages = [
-  {% for page in site.pages %}
-    {
-      "name": "{{ page.name | escape }}",
-      "url": "{{ page.url | absolute_url | escape }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-];
-
 var fuseOptions = {
   keys: ["name"],
   threshold: 0.2
 };
 
-var fuse = new Fuse(pages, fuseOptions);
+var fuse = new Fuse(searchData, fuseOptions);
 
 var searchInput = document.getElementById("search-input");
 var searchResults = document.getElementById("search-results");
