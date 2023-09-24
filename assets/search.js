@@ -1,7 +1,7 @@
 console.log(searchData);
 var fuseOptions = {
   keys: ["name"],
-  threshold: 0.3
+  threshold: 0.6
 };
 
 var fuse = new Fuse(searchData, fuseOptions);
