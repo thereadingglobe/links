@@ -28,6 +28,9 @@ searchInput.addEventListener("input", function () {
       html += '</div>';
     }
   }
+  // Inside the input event listener
+  console.log("Query:", query);
+  console.log("Results:", results);
 
   searchResults.innerHTML = html;
 });
@@ -37,12 +40,12 @@ searchResults.addEventListener("click", function (e) {
   if (e.target.tagName === "A") {
     // Redirect to the clicked URL
     window.location.href = e.target.getAttribute("href");
+
+    console.log("Clicked URL:", e.target.getAttribute("href"));
   }
 });
 
-// Inside the input event listener
-console.log("Query:", query);
-console.log("Results:", results);
+
 
 // Inside the click event listener
 console.log("Clicked URL:", e.target.getAttribute("href"));
