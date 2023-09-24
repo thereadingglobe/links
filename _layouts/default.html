@@ -34,7 +34,14 @@ layout: compress
                     <input type="text" id="search-input" class="search-input" placeholder="Search...">
                 </div>
 
-                <div id="search-results"></div> <!-- Add this line -->
+                <div id="search-results">
+                  {% for result in results %}
+                    <div class="search-result">
+                      <h2><a href="{{ result.url }}">{{ result.name }}</a></h2>
+                    </div>
+                  {% endfor %}
+                </div>
+
 
                 <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
                     {% unless site.links == "" %}
