@@ -24,7 +24,7 @@ searchInput.addEventListener("input", function () {
   } else {
     for (var i = 0; i < results.length; i++) {
       html += '<div class="search-result">';
-      html += '<h2><a href="' + results[i].url + '">' + results[i].name + "</a></h2>";
+      html += '<h2><a href="' + results[i].item.url + '">' + results[i].item.name + "</a></h2>";
       html += '</div>';
     }
   }
