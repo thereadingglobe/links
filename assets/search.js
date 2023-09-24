@@ -40,4 +40,9 @@ searchResults.addEventListener("click", function (e) {
   }
 });
 
+// Inside the input event listener
+console.log("Query:", query);
+console.log("Results:", results);
 
+// Inside the click event listener
+console.log("Clicked URL:", e.target.getAttribute("href"));
