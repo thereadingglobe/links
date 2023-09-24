@@ -1,4 +1,11 @@
-var pages = JSON.parse(document.getElementById("search-data").textContent);
+var pages = [
+  {% for page in site.pages %}
+    {
+      "name": "{{ page.name | escape }}",
+      "url": "{{ page.url | absolute_url | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
 
 var fuseOptions = {
   keys: ["name"],
@@ -8,11 +15,11 @@ var fuseOptions = {
 var fuse = new Fuse(pages, fuseOptions);
 
 var searchInput = document.getElementById("search-input");
+var searchResults = document.getElementById("search-results");
 
 searchInput.addEventListener("input", function () {
   var query = searchInput.value;
   var results = fuse.search(query);
-  var searchResults = document.getElementById("search-results");
 
   var html = "";
 
